@@ -1,8 +1,8 @@
-# SGAT:Single Gene Association analysis Tool # SGAT:Single Gene Association analysis Tool
+# SGAT:Single Gene Association analysis Tool 
 Single gene association analysis tool
 ---
 
-> Design by Jewel [wechat official account: Shengxin Analysis Notes]
+> Design by Jewel [https://www.jewin.love/]
 
 ## How to use:
 1. Put all genotype files in folder 02
@@ -13,8 +13,6 @@ The first column name is called ID, and each subsequent column represents a phen
 4. Run the.. /start.sh command in the current folder.
 5. Results will be generated later
 6. To initialize and clear the workspace, run ".. /clearn.sh".
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 Version update: V1.3.1
 1. Improved fuzzy search algorithm to provide more accurate recognition rate
@@ -61,8 +59,6 @@ The first column name is called ID, and each subsequent column represents a phen
 4. Run the.. /start.sh command in the current folder.
 5. Results will be generated later
 6. To initialize and clear the workspace, run ".. /clearn.sh".
-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 Version update: V1.3.1
 1. Improved fuzzy search algorithm to provide more accurate recognition rate
@@ -110,8 +106,6 @@ Therefore, we developed an automated single gene association analysis program, w
 4. 在当前文件夹下执行". ./start.sh"             
 5. 结果将在后续生成                            
 6. 初始化与清除工作空间请执行". ./clearn.sh"        
-
-#################################################################
 
 ## 版本更新：V1.3.1
  1. 改进了模糊搜索算法，提供更加精准的识别率

@@ -1,5 +1,4 @@
 # SGAT:Single Gene Association analysis Tool 
-Single gene association analysis tool
 ---
 
 > Design by Jewel [https://www.jewin.love/]

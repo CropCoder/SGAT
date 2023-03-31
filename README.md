@@ -1,6 +1,6 @@
 # SGAT:Single Gene Association analysis Tool 
 ---
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7783891.svg)](https://doi.org/10.5281/zenodo.7783891)
 > Design by Jewel [https://www.jewin.love/]
 
 ## How to use:

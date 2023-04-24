@@ -8,9 +8,7 @@ library(xlsx)
 ARGS <- commandArgs(T)
 print(paste0("GWAS_T_test_result_Working Gene ID:",ARGS[1]))
 job <- ARGS[1] # 第一个参数基因ID
-# job <- "TraesCS1A03G0012900"
-# phe <- "CYR23L"
-# model <- "MLM"
+
 list_phe <- read.table("./01_scripts/list_phe.txt",header = F)
 data_t <- read.table(paste0("./15_T_pvalue/",job,".pvalue.txt"),header = T)
 

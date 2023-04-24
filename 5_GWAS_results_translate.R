@@ -7,7 +7,6 @@ job <- ARGS[1]
 dir_MLM <- paste0("MLM_",job)
 phe <- ARGS[2]
 file_name <- paste0("/GAPIT.MLM.",phe,".GWAS.Results.csv")
-# job <- "GAPIT.Association.GWAS_Results.MLM.X19NYH.csv"
 df <- read.csv(paste0("./08_out_GWAS/",dir_MLM,file_name),header = T)
 
 ###  替换染色体展示方式，1A_to_1 ===========================================================

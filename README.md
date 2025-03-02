@@ -1,7 +1,7 @@
-# SGAT:Single Gene Association analysis Tool 
+# SGAT:Single Gene Analysis Tool 
 ---
 
-> Design by Jewel [https://www.jewin.love/]
+> Design by Jewel （ www.filll.cn ）
 
 ## How to use:
 1. Put all genotype files in folder 02
